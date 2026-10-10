@@ -1,8 +1,3 @@
-Here's a full README. One note first: I've linked the standard Kaggle dataset for this project (by Teej Mahal20) — it matches your columns and the 129,880 rows exactly, but open the link and confirm it's the same one you downloaded.
-
-Create this as `README.md` in your project root:
-
-```markdown
 # Airline Passenger Satisfaction Predictor
 
 A machine learning project that predicts whether an airline passenger will be
